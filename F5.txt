@@ -1,2 +1,3 @@
 Feature 5 added
-Second develope: 5.2 additional feature
+Second developer: 5.2 additional feature
+Third developer: 5.1 additional feature added
